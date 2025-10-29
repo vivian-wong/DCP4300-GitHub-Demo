@@ -1,11 +1,11 @@
 ## Overview
 
-A paragraph explaining your work, who you are, and why you made it (Please don't write that you made it because you are forced to do so by your DCP4300 instructor. Your future employers may see this and we have industry partners who might see this...).
+Demo for a GitHub repo for UF DCP4300 Project.
 
 
 ### Authors
 
-Mention who you are and link to your GitHub, LinkedIn, or personal website. 
+Vivian Wong [website](vivian-wong.github.io)
 
 ### Example Input and Output 
 | Input                      | Output                    |
