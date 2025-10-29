@@ -10,4 +10,4 @@ Mention who you are and link to your GitHub, LinkedIn, or personal website.
 ### Example Input and Output 
 | Input                      | Output                    |
 |----------------------------|---------------------------|
-|![Input](input_example.png) | ![Output](output_example.png)   |
+|![Input](input_example.jpg) | 1   |
